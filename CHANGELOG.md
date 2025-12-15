@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.12.1 (2025-12-15)
+
+Full Changelog: [v2.12.0...v2.12.1](https://github.com/openai/openai-python/compare/v2.12.0...v2.12.1)
+
+### Chores
+
+* **internal:** add missing files argument to base client ([e6d6fd5](https://github.com/openai/openai-python/commit/e6d6fd5989d76358ea5d9abb5949aa87646cbef6))
+
 ## 2.12.0 (2025-12-15)
 
 Full Changelog: [v2.11.0...v2.12.0](https://github.com/openai/openai-python/compare/v2.11.0...v2.12.0)
