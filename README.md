@@ -20,7 +20,7 @@ The REST API documentation can be found on [platform.openai.com](https://platfor
 pip install openai
 ```
 
-## Usage
+### Usage
 
 The full API of this library can be found in [api.md](api.md).
 
